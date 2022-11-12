@@ -659,8 +659,5 @@ video{
 .feedback{
   width: 400px;
 }
-.feed,option{
-    margin-left: 5px;
-  padding: 5px 5px 5px 5px;
-}
+
 }
