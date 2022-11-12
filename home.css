@@ -653,9 +653,7 @@ video{
     display: flex;
     justify-content: center;
 }
-.links{
-    margin: 0px 10px;
-}
+
 .feedback{
   width: 400px;
 }
